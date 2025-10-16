@@ -1,0 +1,1 @@
+This program solves the coding questions in the Phys 753 Cosmology project. The code is all sectioned in the parts that answer the questions. Simply (un)comment each section to run the desired questions.
